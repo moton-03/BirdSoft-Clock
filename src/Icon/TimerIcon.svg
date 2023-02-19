@@ -14,7 +14,6 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -29,7 +28,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="9.44"
-     inkscape:cx="56.355932"
+     inkscape:cx="56.461864"
      inkscape:cy="49.576271"
      inkscape:window-width="2256"
      inkscape:window-height="1398"
@@ -43,36 +42,18 @@
        spacingy="2.6458333" />
   </sodipodi:namedview>
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient310">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop306" />
-      <stop
-         style="stop-color:#008080;stop-opacity:0.40000001;"
-         offset="1"
-         id="stop308" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient310"
-       id="linearGradient312"
-       x1="13.229166"
-       y1="2.6458333"
-       x2="13.229166"
-       y2="23.8125"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:url(#linearGradient312);stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-       d="M 5.2916666,2.6458333 H 21.166666 L 5.2916666,23.8125 H 21.166666 L 5.2916666,2.6458333"
-       id="path68" />
+       style="fill:none;stroke:#008080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round"
+       d="M 13.229167,15.875 V 10.583333"
+       id="path349" />
+    <path
+       id="path353"
+       style="fill:none;stroke:#008080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round"
+       d="M 7.9374999,5.2916666 H 18.520833 M 13.229167,7.9374999 V 5.2916666 M 21.166666,15.875 a 7.9375,7.9375 0 0 1 -7.9375,7.9375 7.9375,7.9375 0 0 1 -7.9375,-7.9375 7.9375,7.9375 0 0 1 7.9375,-7.9375 7.9375,7.9375 0 0 1 7.9375,7.9375 z" />
   </g>
 </svg>
